@@ -1,0 +1,1 @@
+	<td><Form action="ConsultasGenerales.php" Method="Post">
